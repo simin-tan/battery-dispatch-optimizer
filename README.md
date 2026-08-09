@@ -27,7 +27,7 @@ python src/backtest.py # run backtest across all countries and days
 python src/baseline.py # compare against naive strategy
 pytest tests/ -v # run the test suite
 ```
-
+s
 ## Example output
 
 Battery schedule for Aug 4, 2026, using specs matching a single Tesla Megapack 2
